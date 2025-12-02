@@ -1,0 +1,16 @@
+{
+    "name": "projeto-fibonacci",
+    "version": "1.0.0",
+    "description": "Projeto simples com função Fibonacci e testes usando Jest",
+    "main": "fibonacci.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
